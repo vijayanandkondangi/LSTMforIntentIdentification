@@ -1,0 +1,41 @@
+UserEntry,Intent
+how to create order,HOWTO_CREATE_ORDER
+how to log order,HOWTO_CREATE_ORDER
+list of steps to create order,HOWTO_CREATE_ORDER
+list of steps to log order,HOWTO_CREATE_ORDER
+what are the steps to create order,HOWTO_CREATE_ORDER
+list of steps to create sr,HOWTO_CREATE_SR
+how to create service request,HOWTO_CREATE_SR
+how to log service request,HOWTO_CREATE_SR
+list of steps to log sr,HOWTO_CREATE_SR
+how to create sr,HOWTO_CREATE_SR
+how to log sr,HOWTO_CREATE_SR
+list of steps to log service request,HOWTO_CREATE_SR
+list of steps to create service request,HOWTO_CREATE_SR
+how to change order,HOWTO_UPDATE_ORDER
+how to modify order,HOWTO_UPDATE_ORDER
+list of steps to update order,HOWTO_UPDATE_ORDER
+list of steps to modify order,HOWTO_UPDATE_ORDER
+how to update order,HOWTO_UPDATE_ORDER
+how to update sr,HOWTO_UPDATE_SR
+how to modify sr,HOWTO_UPDATE_SR
+how to change sr,HOWTO_UPDATE_SR
+list of steps to modify sr,HOWTO_UPDATE_SR
+list of steps to update sr,HOWTO_UPDATE_SR
+list of steps to update service request,HOWTO_UPDATE_SR
+list of steps to modify service request,HOWTO_UPDATE_SR
+how to update service request,HOWTO_UPDATE_SR
+how to modify service request,HOWTO_UPDATE_SR
+how to change service request,HOWTO_UPDATE_SR
+close order,HOWTO_UPDATE_ORDER
+set order status to closed,HOWTO_UPDATE_ORDER
+modify order status to closed,HOWTO_UPDATE_ORDER
+change order status to closed,HOWTO_UPDATE_ORDER
+change sr status to closed,HOWTO_UPDATE_SR
+modify sr status to closed,HOWTO_UPDATE_SR
+set sr status to closed,HOWTO_UPDATE_SR
+close sr,HOWTO_UPDATE_SR
+close service request,HOWTO_UPDATE_SR
+set service request status to closed,HOWTO_UPDATE_SR
+modify service request status to closed,HOWTO_UPDATE_SR
+change service request status to closed,HOWTO_UPDATE_SR
